@@ -1,0 +1,18 @@
+.footer{
+    margin: 50px 0;
+    height: 60vh;
+    color: white;
+    background-color: #151515;
+}
+.footer .footer-map iframe{
+    margin: 20px 0 0 200px;
+}
+.col-6 .col-6-footer-left{
+    padding: 70px;
+}
+.col-6 .col-6-footer-right{
+    padding: 100px;
+}
+.row{
+
+}

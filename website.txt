@@ -1,0 +1,7 @@
+create website with reference - www.integrationitservices.com
+
+index.html (homepage)
+about
+services
+gallery
+contact

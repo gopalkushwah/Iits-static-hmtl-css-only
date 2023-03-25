@@ -1,0 +1,56 @@
+.container{
+    width: 100%;
+    /* margin-left: auto; */
+    /* margin-right: auto; */
+}
+.col1{
+    width: 8.33%;
+    float:left;
+}
+.col2{
+    width: 16.66%;
+    float:left;
+}
+.col3{
+    width: 24.99%;
+    float:left;
+}
+.col4{
+    width: 33.32%;
+    float:left;
+}
+.col5{
+    width: 41.65%;
+    float:left;
+}
+.col6{
+    width: 49.98%;
+    float:left;
+}
+.col7{
+    width: 58.31%;
+    float:left;
+}
+.col8{
+    width: 66.64%;
+    float:left;
+}
+.col9{
+    width: 74.97%;
+    float:left;
+}
+.col0{
+    width: 83.3%;
+    float:left;
+}
+.col1{
+    width: 91.63%;
+    float:left;
+}
+.col12{
+    width: 100%;
+    float:left;
+}
+.row{
+    
+}
